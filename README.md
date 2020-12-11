@@ -12,7 +12,7 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/python.png" /> Python
 
-<img align="left" alt="Email" height="25px" src="/Icons/cpp.png" /> C++
+<img align="left" height="25px" src="/Icons/c++.png" /> C++
 
 <img align="left" alt="Email" height="25px" src="/Icons/matlab.png" /> MATLAB
 
@@ -22,4 +22,4 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/node.png" /> Node.js
 
-<img align="left" alt="Email" height="25px" src="/Icons/react.png" /> Angular
+<img align="left" alt="Email" height="25px" src="/Icons/angular.png" /> Angular
