@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋 This is Waleed!
 
-<!--
-**waleedbinkhalid74/waleedbinkhalid74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: I am a student at the Technical University of Munich, studying Computational Sciences and Engineering! 
 
-Here are some ideas to get you started:
+:car: I am also a HiWi at the Commonroad project, which is a bench marking tool for traffic simulation, vital for autonomous driving simulation and testing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+
+:email:[waleed.khalid@tum.com](mailto:notadilnaqvi@gmail.com)<br />
+
+## Languages and tools that I use
+
+<img align="left" alt="Email" height="25px" src="/Icons/python.png" /> Python
+
+<img align="left" alt="Email" height="25px" src="/Icons/cpp.png" /> C++
+
+<img align="left" alt="Email" height="25px" src="/Icons/matlab.png" /> MATLAB
+
+<img align="left" alt="Email" height="25px" src="/Icons/html.png" /> HTML5
+
+<img align="left" alt="Email" height="25px" src="/Icons/css.png" /> CSS3
+
+<img align="left" alt="Email" height="25px" src="/Icons/node.png" /> Node.js
+
+<img align="left" alt="Email" height="25px" src="/Icons/react.png" /> Angular
