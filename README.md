@@ -8,7 +8,7 @@
 
 :email:[waleed.khalid@tum.com](mailto:notadilnaqvi@gmail.com)<br />
 
-## Languages and tools that I use
+## :nerd_face: Languages and tools that I use
 
 <img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
 
@@ -23,3 +23,5 @@
 <img align="left" alt="Email" height="25px" src="/Icons/node.png" /> Node.js
 
 <img align="left" alt="Email" height="25px" src="/Icons/angular.png" /> Angular
+
+## :gear: Some of the projects I have worked on rercently that are not subjected to copyrights are provided below:
