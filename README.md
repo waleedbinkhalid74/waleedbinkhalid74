@@ -25,7 +25,7 @@
 <img align="left" alt="Email" height="25px" src="/Icons/angular.png" /> Angular
 
 ## :hammer_and_wrench: Current Projects
-:vertical_traffic_light: Map Convertor: Convertor to transform openDrive format to commonroad format (.xml) | Using <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> Info: [commonroad](https://commonroad.in.tum.de/) 
+:vertical_traffic_light: Map Convertor: Convertor to transform openDrive format to commonroad format (.xml) Info: [commonroad](https://commonroad.in.tum.de/) | Using <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> Python  
 
 :moneybag: Crypto-Notificator: Telegram bot to automatically update on key stats for Crypto Assets | Using <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> Python
 
