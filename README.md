@@ -26,6 +26,8 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/angular.png" /> Angular
 
+<img align="left" alt="Email" height="25px" src="/Icons/git.png" /> Git
+
 ## :hammer_and_wrench: Current Projects
 :vertical_traffic_light: Map Convertor: Convertor to transform openDrive format to commonroad format (.xml) Info: [commonroad](https://commonroad.in.tum.de/) | Using <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> Python  
 
