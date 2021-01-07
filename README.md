@@ -6,9 +6,9 @@
 
 ## 📫 How to reach me:
 
-:email:[waleed.khalid@tum.com](mailto:notadilnaqvi@gmail.com)<br />
+:email:   [waleed.khalid@tum.com](mailto:notadilnaqvi@gmail.com)<br />
 
-<img align="left" alt="LinkedIn" height="25px" src="/Icons/LinkedIn.png" /> LinkedIn [waleed.khalid@tum.com](https://www.linkedin.com/in/waleedbk/)<br />
+<img align="left" alt="" height="20px" src="/Icons/LinkedIn.png" />[LinkedIn](https://www.linkedin.com/in/waleedbk/)<br />
 
 ## :nerd_face: Languages and tools that I use
 
