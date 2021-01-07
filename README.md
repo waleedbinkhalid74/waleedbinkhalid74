@@ -8,6 +8,8 @@
 
 :email:[waleed.khalid@tum.com](mailto:notadilnaqvi@gmail.com)<br />
 
+<img align="left" alt="LinkedIn" height="25px" src="/Icons/LinkedIn.png" /> LinkedIn [waleed.khalid@tum.com](https://www.linkedin.com/in/waleedbk/)<br />
+
 ## :nerd_face: Languages and tools that I use
 
 <img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
