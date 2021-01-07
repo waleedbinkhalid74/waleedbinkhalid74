@@ -6,7 +6,7 @@
 
 ## 📫 How to reach me:
 
-<img align="left" alt="Email" height="25px" src="/Icons/Email.png"/> [waleed.khalid@tum.com](mailto:notadilnaqvi@gmail.com)<br />
+<img align="left" alt="Email" height="25px" src="/Icons/Email1.png"/> [waleed.khalid@tum.com](mailto:notadilnaqvi@gmail.com)<br />
 
 <img align="left" alt="LinkedIn" height="25px" src="/Icons/LinkedIn.png"/>[LinkedIn](https://www.linkedin.com/in/waleedbk/)<br />
 
