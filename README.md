@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Waleed!
 
-<img align="left" alt="sap" height="25px" src="/Icons/tum.png" /> I am a student at the Technical University of Munich, studying Computational Sciences and Engineering! 
+<img align="left" alt="sap" height="45px" src="/Icons/tum.png" /> I am a student at the Technical University of Munich, studying Computational Sciences and Engineering! 
 
 <img align="left" alt="sap" height="25px" src="/Icons/sap.svg" /> I am also a Student Vocational Trainee at SAP.
 
