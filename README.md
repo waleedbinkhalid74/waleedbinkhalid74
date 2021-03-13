@@ -2,7 +2,7 @@
 
 :computer: I am a student at the Technical University of Munich, studying Computational Sciences and Engineering! 
 
-:car: I am also a HiWi at the Commonroad project, which is a bench marking tool for traffic simulation, vital for autonomous driving simulation and testing 
+<img align="left" alt="sap" height="25px" src="/Icons/sap.png" /> I am also a Student Vocational Trainee at SAP.
 
 ## 📫 How to reach me:
 
@@ -28,7 +28,7 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/git.png" /> Git
 
-## :hammer_and_wrench: Current Projects
+## :hammer_and_wrench: Current and Previous Projects
 :vertical_traffic_light: Map Convertor: Convertor to transform openDrive format to commonroad format (.xml) Info: [commonroad](https://commonroad.in.tum.de/) <img align="right" alt="Email" height="20px" src="/Icons/python3.png" />
 
 :moneybag: Crypto-Notificator: Telegram bot to automatically update on key stats for Crypto Assets <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> 
