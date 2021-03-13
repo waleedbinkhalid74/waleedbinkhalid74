@@ -2,7 +2,7 @@
 
 :computer: I am a student at the Technical University of Munich, studying Computational Sciences and Engineering! 
 
-<img align="left" alt="sap" height="25px" src="/Icons/sap.png" /> I am also a Student Vocational Trainee at SAP.
+<img align="left" alt="sap" height="25px" src="/Icons/sap.svg" /> I am also a Student Vocational Trainee at SAP.
 
 ## 📫 How to reach me:
 
