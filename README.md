@@ -31,9 +31,13 @@
 <img align="left" alt="Email" height="25px" src="/Icons/git.png" /> Git
 
 ## :hammer_and_wrench: Current and Previous Projects
-:vertical_traffic_light: Map Convertor: Convertor to transform openDrive format to commonroad format (.xml) Info: [commonroad](https://commonroad.in.tum.de/) <img align="right" alt="Email" height="20px" src="/Icons/python3.png" />
+:walking: Crowd Modeller: Software that models crowd movements based on the cellular automata approach <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> 
+
+:b: Wordle Solver: Algorithm to solve the Wordle Puzzle in minimum number of steps <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> 
 
 :moneybag: Crypto-Notificator: Telegram bot to automatically update on key stats for Crypto Assets <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> 
+
+:vertical_traffic_light: Map Convertor: Convertor to transform openDrive format to commonroad format (.xml) Info: [commonroad](https://commonroad.in.tum.de/) <img align="right" alt="Email" height="20px" src="/Icons/python3.png" />
 
 :video_game: RPG: CLI based RPG with optimizations <img align="right" height="20px" src="/Icons/c++.png" />
 
