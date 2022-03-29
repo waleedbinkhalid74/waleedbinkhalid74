@@ -12,8 +12,6 @@
 
 ## :nerd_face: Languages and tools that I use
 
-<img align="left" alt="Email" height="25px" src="/Icons/abap.jpg" /> ABAP
-
 <img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
 
 <img align="left" height="25px" src="/Icons/c++.png" /> C++
@@ -29,6 +27,8 @@
 <img align="left" alt="Email" height="25px" src="/Icons/angular.png" /> Angular
 
 <img align="left" alt="Email" height="25px" src="/Icons/git.png" /> Git
+
+<img align="left" alt="Email" height="25px" src="/Icons/abap.jpg" /> ABAP
 
 ## :hammer_and_wrench: Current and Previous Projects
 :walking: Crowd Modeller: Software that models crowd movements based on the cellular automata approach <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> 
