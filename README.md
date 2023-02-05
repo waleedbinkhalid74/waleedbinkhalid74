@@ -22,7 +22,7 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/abap.jpg" /> ABAP
 
-<img align="left" alt="Email" height="25px" src="/Icons/abap.jpg" /> RUST (I'm Learning 😉)
+<img align="left" alt="Email" height="25px" src="/Icons/rust.jpg" /> RUST (I'm Learning 😉)
 
 ## :hammer_and_wrench: Current and Previous Projects
 :bank: SAP HANA JSON DocStore Engine: The NoSQL offer from SAP HANA <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> <img align="right" alt="Email" height="20px" src="/Icons/c++.png" />
