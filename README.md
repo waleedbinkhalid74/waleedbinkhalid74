@@ -14,13 +14,9 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
 
-<img align="left" alt="Email" height="25px" src="/Icons/matlab.png" /> MATLAB
-
 <img align="left" alt="Email" height="25px" src="/Icons/git.png" /> Git
 
 <img align="left" alt="Email" height="25px" src="/Icons/angular.png" /> Angular
-
-<img align="left" alt="Email" height="25px" src="/Icons/abap.jpg" /> ABAP
 
 <img align="left" alt="Email" height="25px" src="/Icons/rust.jpg" /> RUST (I'm Learning 😉)
 
