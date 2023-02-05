@@ -1,8 +1,6 @@
 ## Hi there 👋 This is Waleed!
 
-<img align="left" alt="sap" height="25px" src="/Icons/tum.png" /> I am a student at the Technical University of Munich, studying Computational Sciences and Engineering! 
-
-<img align="left" alt="sap" height="25px" src="/Icons/sap.svg" /> I am also a Student Vocational Trainee at SAP.
+<img align="left" alt="sap" height="25px" src="/Icons/sap.svg" /> I am a C++ Developer at SAP!
 
 ## 📫 How to reach me:
 
@@ -12,25 +10,25 @@
 
 ## :nerd_face: Languages and tools that I use
 
-<img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
-
 <img align="left" height="25px" src="/Icons/c++.png" /> C++
+
+<img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
 
 <img align="left" alt="Email" height="25px" src="/Icons/matlab.png" /> MATLAB
 
-<img align="left" alt="Email" height="25px" src="/Icons/html.png" /> HTML5
-
-<img align="left" alt="Email" height="25px" src="/Icons/css.png" /> CSS3
-
-<img align="left" alt="Email" height="25px" src="/Icons/node.png" /> Node.js
+<img align="left" alt="Email" height="25px" src="/Icons/git.png" /> Git
 
 <img align="left" alt="Email" height="25px" src="/Icons/angular.png" /> Angular
 
-<img align="left" alt="Email" height="25px" src="/Icons/git.png" /> Git
-
 <img align="left" alt="Email" height="25px" src="/Icons/abap.jpg" /> ABAP
 
+<img align="left" alt="Email" height="25px" src="/Icons/abap.jpg" /> RUST (I'm Learning 😉)
+
 ## :hammer_and_wrench: Current and Previous Projects
+:bank: SAP HANA JSON DocStore Engine: The NoSQL offer from SAP HANA <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> <img align="right" alt="Email" height="20px" src="/Icons/c++.png" />
+
+:heavy_division_sign: Master Thesis: Kernel Flows on Neural Network Induced Gaussian Process Kernels.  <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> 
+
 :walking: Crowd Modeller: Software that models crowd movements based on the cellular automata approach <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> 
 
 :b: Wordle Solver: Algorithm to solve the Wordle Puzzle in minimum number of steps <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> 
@@ -40,7 +38,5 @@
 :vertical_traffic_light: Map Convertor: Convertor to transform openDrive format to commonroad format (.xml) Info: [commonroad](https://commonroad.in.tum.de/) <img align="right" alt="Email" height="20px" src="/Icons/python3.png" />
 
 :video_game: RPG: CLI based RPG with optimizations <img align="right" height="20px" src="/Icons/c++.png" />
-
-:heavy_division_sign: ODE/PDE Solver: Tools to solve ODEs/PDEs using various numerical techniques <img align="right" alt="Email" height="20px" src="/Icons/matlab.png" /> 
 
 ### :gear: Some of the projects I have worked on recently that are not subjected to copyrights are provided below. Other projects not listed below can be discussed as well :smile:<br />
