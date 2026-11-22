@@ -18,6 +18,8 @@
 
 <img align="left" alt="JavaScript" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> JavaScript / TypeScript
 
+<img align="left" alt="Rust" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> Rust
+
 ## :hammer_and_wrench: Current and Previous Projects
 :bank: SAP HANA JSON DocStore Engine: The NoSQL offer from SAP HANA <img align="right" alt="Email" height="20px" src="/Icons/python3.png" /> <img align="right" alt="Email" height="20px" src="/Icons/c++.png" />
 
